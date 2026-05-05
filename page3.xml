@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <status>success</status>
+    <timestamp>2026-05-05T10:32:00Z</timestamp>
+    <pagination>
+        <page>3</page>
+        <perPage>3</perPage>
+        <totalPages>3</totalPages>
+        <totalRecords>9</totalRecords>
+        <nextPage>null</nextPage>
+        <prevPage>2</prevPage>
+    </pagination>
+    <data>
+        <hotels>
+            <hotel id="H007">
+                <name>Riverfront Hotel</name>
+                <city>Hue</city>
+                <rating>4.3</rating>
+                <price currency="VND">1000000</price>
+                <availability>true</availability>
+            </hotel>
+            <hotel id="H008">
+                <name>Island Escape Resort</name>
+                <city>Phu Quoc</city>
+                <rating>5.0</rating>
+                <price currency="VND">3000000</price>
+                <availability>true</availability>
+            </hotel>
+            <hotel id="H009">
+                <name>Budget Stay Inn</name>
+                <city>Can Tho</city>
+                <rating>3.5</rating>
+                <price currency="VND">500000</price>
+                <availability>true</availability>
+            </hotel>
+        </hotels>
+    </data>
+</response>
