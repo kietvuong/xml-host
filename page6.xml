@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <status>success</status>
+    <pagination>
+        <page>6</page>
+        <perPage>20</perPage>
+        <totalPages>6</totalPages>
+        <totalRecords>120</totalRecords>
+        <nextPage>null</nextPage>
+        <prevPage>5</prevPage>
+    </pagination>
+    <data>
+        <hotels>
+            
+        <hotel id="H101">
+            <name>Hotel 101</name>
+            <city>Vung Tau</city>
+            <rating>4.5</rating>
+            <price currency="VND">2525154</price>
+            <availability>false</availability>
+        </hotel>
+        
+
+        <hotel id="H102">
+            <name>Hotel 102</name>
+            <city>Vung Tau</city>
+            <rating>4.2</rating>
+            <price currency="VND">2094117</price>
+            <availability>false</availability>
+        </hotel>
+        
+
+        <hotel id="H103">
+            <name>Hotel 103</name>
+            <city>Vung Tau</city>
+            <rating>3.6</rating>
+            <price currency="VND">1598967</price>
+            <availability>true</availability>
+        </hotel>
+        
+
+        <hotel id="H104">
+            <name>Hotel 104</name>
+            <city>Vung Tau</city>
+            <rating>3.7</rating>
+            <price currency="VND">2979085</price>
+            <availability>true</availability>
+        </hotel>
+        
+
+        <hotel id="H105">
+            <name>Hotel 105</name>
+            <city>Vung Tau</city>
+            <rating>4.7</rating>
+            <price currency="VND">1453474</price>
+            <availability>false</availability>
+        </hotel>
+        
+
+        <hotel id="H106">
+            <name>Hotel 106</name>
+            <city>Vung Tau</city>
+            <rating>3.5</rating>
+            <price currency="VND">2656450</price>
+            <availability>false</availability>
+        </hotel>
+        
+
+        <hotel id="H107">
+            <name>Hotel 107</name>
+            <city>Vung Tau</city>
+            <rating>4.9</rating>
+            <price currency="VND">2817719</price>
+            <availability>true</availability>
+        </hotel>
+        
+
+        <hotel id="H108">
+            <name>Hotel 108</name>
+            <city>Vung Tau</city>
+            <rating>4.4</rating>
+            <price currency="VND">1156829</price>
+            <availability>false</availability>
+        </hotel>
+        
+
+        <hotel id="H109">
+            <name>Hotel 109</name>
+            <city>Vung Tau</city>
+            <rating>4.0</rating>
+            <price currency="VND">1129219</price>
+            <availability>true</availability>
+        </hotel>
+        
+
+        <hotel id="H110">
+            <name>Hotel 110</name>
+            <city>Vung Tau</city>
+            <rating>4.6</rating>
+            <price currency="VND">2371878</price>
+            <availability>false</availability>
+        </hotel>
+        
+
+        <hotel id="H111">
+            <name>Hotel 111</name>
+            <city>Vung Tau</city>
+            <rating>3.6</rating>
+            <price currency="VND">1686313</price>
+            <availability>true</availability>
+        </hotel>
+        
+
+        <hotel id="H112">
+            <name>Hotel 112</name>
+            <city>Vung Tau</city>
+            <rating>4.1</rating>
+            <price currency="VND">1636558</price>
+            <availability>false</availability>
+        </hotel>
+        
+
+        <hotel id="H113">
+            <name>Hotel 113</name>
+            <city>Vung Tau</city>
+            <rating>3.7</rating>
+            <price currency="VND">2775399</price>
+            <availability>true</availability>
+        </hotel>
+        
+
+        <hotel id="H114">
+            <name>Hotel 114</name>
+            <city>Vung Tau</city>
+            <rating>4.5</rating>
+            <price currency="VND">1455243</price>
+            <availability>false</availability>
+        </hotel>
+        
+
+        <hotel id="H115">
+            <name>Hotel 115</name>
+            <city>Vung Tau</city>
+            <rating>3.9</rating>
+            <price currency="VND">961801</price>
+            <availability>true</availability>
+        </hotel>
+        
+
+        <hotel id="H116">
+            <name>Hotel 116</name>
+            <city>Vung Tau</city>
+            <rating>4.5</rating>
+            <price currency="VND">1182750</price>
+            <availability>false</availability>
+        </hotel>
+        
+
+        <hotel id="H117">
+            <name>Hotel 117</name>
+            <city>Vung Tau</city>
+            <rating>4.8</rating>
+            <price currency="VND">1117417</price>
+            <availability>true</availability>
+        </hotel>
+        
+
+        <hotel id="H118">
+            <name>Hotel 118</name>
+            <city>Vung Tau</city>
+            <rating>3.6</rating>
+            <price currency="VND">2314006</price>
+            <availability>false</availability>
+        </hotel>
+        
+
+        <hotel id="H119">
+            <name>Hotel 119</name>
+            <city>Vung Tau</city>
+            <rating>3.4</rating>
+            <price currency="VND">2097110</price>
+            <availability>true</availability>
+        </hotel>
+        
+
+        <hotel id="H120">
+            <name>Hotel 120</name>
+            <city>Vung Tau</city>
+            <rating>4.9</rating>
+            <price currency="VND">2958361</price>
+            <availability>true</availability>
+        </hotel>
+        
+        </hotels>
+    </data>
+</response>
