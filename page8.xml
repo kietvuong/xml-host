@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <status>success</status>
+    <timestamp>2026-05-05T10:32:00Z</timestamp>
+
+    <request>
+        <queryParams>
+            <page>2</page>
+            <perPage>3</perPage>
+            <city>Vung Tau</city>
+            <sortBy>price</sortBy>
+            <order>asc</order>
+        </queryParams>
+    </request>
+
+    <pagination>
+        <page>2</page>
+        <perPage>3</perPage>
+        <totalPages>3</totalPages>
+        <totalRecords>9</totalRecords>
+        <nextPage>3</nextPage>
+        <prevPage>1</prevPage>
+    </pagination>
+
+    <filters>
+        <applied>
+            <city>Vung Tau</city>
+        </applied>
+    </filters>
+
+    <sorting>
+        <sortBy>price</sortBy>
+        <order>asc</order>
+    </sorting>
+
+    <data>
+        <hotels>
+            
+<hotel id="H004">
+    <name>Blue Ocean Hotel</name>
+    <city>Vung Tau</city>
+    <rating>4.2</rating>
+    <price currency="VND">1100000</price>
+    <availability>true</availability>
+</hotel>
+
+
+<hotel id="H005">
+    <name>Mountain View Resort</name>
+    <city>Vung Tau</city>
+    <rating>4.8</rating>
+    <price currency="VND">1500000</price>
+    <availability>true</availability>
+</hotel>
+
+
+<hotel id="H006">
+    <name>City Lights Hotel</name>
+    <city>Vung Tau</city>
+    <rating>3.9</rating>
+    <price currency="VND">800000</price>
+    <availability>false</availability>
+</hotel>
+
+        </hotels>
+    </data>
+</response>

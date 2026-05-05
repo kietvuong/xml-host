@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <status>success</status>
+    <timestamp>2026-05-05T10:31:00Z</timestamp>
+
+    <request>
+        <queryParams>
+            <page>1</page>
+            <perPage>3</perPage>
+            <city>Vung Tau</city>
+            <sortBy>price</sortBy>
+            <order>asc</order>
+        </queryParams>
+    </request>
+
+    <pagination>
+        <page>1</page>
+        <perPage>3</perPage>
+        <totalPages>3</totalPages>
+        <totalRecords>9</totalRecords>
+        <nextPage>2</nextPage>
+        <prevPage>null</prevPage>
+    </pagination>
+
+    <filters>
+        <applied>
+            <city>Vung Tau</city>
+        </applied>
+    </filters>
+
+    <sorting>
+        <sortBy>price</sortBy>
+        <order>asc</order>
+    </sorting>
+
+    <data>
+        <hotels>
+            
+<hotel id="H001">
+    <name>Sunrise Beach Resort</name>
+    <city>Vung Tau</city>
+    <rating>4.5</rating>
+    <price currency="VND">1200000</price>
+    <availability>true</availability>
+</hotel>
+
+
+<hotel id="H002">
+    <name>Ocean Pearl Hotel</name>
+    <city>Vung Tau</city>
+    <rating>4.0</rating>
+    <price currency="VND">950000</price>
+    <availability>false</availability>
+</hotel>
+
+
+<hotel id="H003">
+    <name>Golden Sand Villa</name>
+    <city>Vung Tau</city>
+    <rating>5.0</rating>
+    <price currency="VND">2200000</price>
+    <availability>true</availability>
+</hotel>
+
+        </hotels>
+    </data>
+</response>

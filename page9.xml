@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <status>success</status>
+    <timestamp>2026-05-05T10:33:00Z</timestamp>
+
+    <request>
+        <queryParams>
+            <page>3</page>
+            <perPage>3</perPage>
+            <city>Vung Tau</city>
+            <sortBy>price</sortBy>
+            <order>asc</order>
+        </queryParams>
+    </request>
+
+    <pagination>
+        <page>3</page>
+        <perPage>3</perPage>
+        <totalPages>3</totalPages>
+        <totalRecords>9</totalRecords>
+        <nextPage>null</nextPage>
+        <prevPage>2</prevPage>
+    </pagination>
+
+    <filters>
+        <applied>
+            <city>Vung Tau</city>
+        </applied>
+    </filters>
+
+    <sorting>
+        <sortBy>price</sortBy>
+        <order>asc</order>
+    </sorting>
+
+    <data>
+        <hotels>
+            
+<hotel id="H007">
+    <name>Riverfront Hotel</name>
+    <city>Vung Tau</city>
+    <rating>4.3</rating>
+    <price currency="VND">1000000</price>
+    <availability>true</availability>
+</hotel>
+
+
+<hotel id="H008">
+    <name>Island Escape Resort</name>
+    <city>Vung Tau</city>
+    <rating>5.0</rating>
+    <price currency="VND">3000000</price>
+    <availability>true</availability>
+</hotel>
+
+
+<hotel id="H009">
+    <name>Budget Stay Inn</name>
+    <city>Vung Tau</city>
+    <rating>3.5</rating>
+    <price currency="VND">500000</price>
+    <availability>true</availability>
+</hotel>
+
+        </hotels>
+    </data>
+</response>
